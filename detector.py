@@ -5,7 +5,7 @@ import config
 
 def detect_points(img):
 
-    assert img.shape[0] == 960
+    # assert img.shape[0] == 960
 
     
 
