@@ -1,0 +1,1 @@
+web: voila --no-browser --port=$PORT  --MappingKernelManager.cull_interval=10 --MappingKernelManager.cull_idle_timeout=60 --MappingKernelManager.cull_busy=True --MappingKernelManager.cull_connectedBool=True show.ipynb

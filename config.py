@@ -1,0 +1,12 @@
+
+import numpy as np
+
+
+OUTPUT_PROCESS = True
+CORNERS_LIM = 0.4
+ALLOWED_SKEW = np.pi/6
+ANGLE_BTW_LINES_ALLOWED = np.pi/15
+
+DRAW_HINTS = True
+
+IMAGE_HEIGHT = 960
